@@ -1,4 +1,2 @@
 # rule34-ranker
-idkman ask my crewmate, he was actin' sussi
-realll sussy
-
+Yallready know dude
