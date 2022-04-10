@@ -6,3 +6,8 @@ p{
   color: black;
   font-family:verdana,sans-serif;
 }
+
+.rankme{
+  width:500px; 
+  height:500px;
+}
