@@ -1,13 +1,13 @@
 html{
-  background-color:#9cd2ff;
+  background-color: #9cd2ff;
 }
 
 p{
   color: black;
-  font-family:verdana,sans-serif;
+  font-family: verdana,sans-serif;
 }
 
-.rankme{
-  width:500px; 
-  height:500px;
+.rankme img{
+    height: 350px;
+    width: 350px;
 }
